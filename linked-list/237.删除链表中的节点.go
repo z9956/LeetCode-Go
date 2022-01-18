@@ -1,9 +1,10 @@
 package linked_list
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+import (
+	"github.com/z9956/LeetCode-Go/structures"
+)
+
+type ListNode = structures.ListNode
 
 func deleteNode(node *ListNode) {
 	node.Val = node.Next.Val
