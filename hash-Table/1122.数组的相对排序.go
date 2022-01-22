@@ -1,4 +1,4 @@
-package array
+package hash_Table
 
 import "sort"
 

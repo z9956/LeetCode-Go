@@ -1,4 +1,4 @@
-package array
+package hash_Table
 
 func sumOfUnique(nums []int) int {
 	var sum int

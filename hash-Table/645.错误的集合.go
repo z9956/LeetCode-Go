@@ -1,4 +1,4 @@
-package array
+package hash_Table
 
 func findErrorNums(nums []int) []int {
 	m := make(map[int]int)

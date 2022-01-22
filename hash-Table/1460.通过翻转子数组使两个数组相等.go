@@ -1,4 +1,4 @@
-package array
+package hash_Table
 
 func canBeEqual(target []int, arr []int) bool {
 	length := len(arr)

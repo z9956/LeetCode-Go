@@ -1,4 +1,4 @@
-package array
+package hash_Table
 
 func containsNearbyDuplicate(nums []int, k int) bool {
 	if len(nums) == 0 {

@@ -1,4 +1,4 @@
-package array
+package hash_Table
 
 func uniqueOccurrences(arr []int) bool {
 	m := make(map[int]int)

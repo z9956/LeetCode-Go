@@ -1,4 +1,4 @@
-package array
+package hash_Table
 
 func decode(encoded []int, first int) []int {
 	length := len(encoded) + 1

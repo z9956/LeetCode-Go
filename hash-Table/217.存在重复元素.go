@@ -1,4 +1,4 @@
-package array
+package hash_Table
 
 func containsDuplicate(nums []int) bool {
 	m := make(map[int]bool)

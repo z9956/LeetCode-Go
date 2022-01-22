@@ -1,4 +1,4 @@
-package array
+package hash_Table
 
 func countConsistentStrings(allowed string, words []string) int {
 	count := 0
